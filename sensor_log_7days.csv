@@ -1,0 +1,8 @@
+date,station_id,dc_bus_pos_insulation_mohm,dc_bus_neg_insulation_mohm,tb02_terminal_temp_c,ambient_temp_c,cb02_trip_coil_current_a,battery_cell_max_diff_mv
+2026-11-10,SUB_A01,25.4,26.1,28.5,18.0,1.82,12
+2026-11-11,SUB_A01,24.1,25.8,30.2,18.2,1.83,13
+2026-11-12,SUB_A01,21.8,25.5,33.6,17.9,1.82,12
+2026-11-13,SUB_A01,18.5,25.6,37.8,18.1,1.84,14
+2026-11-14,SUB_A01,15.2,25.2,42.5,17.8,1.83,15
+2026-11-15,SUB_A01,12.9,25.4,48.1,18.0,1.85,14
+2026-11-16,SUB_A01,11.2,25.1,54.6,17.5,1.86,16
